@@ -2,4 +2,4 @@ Research and analyze the business activities of a supermarket and the factors in
 
 [Demo Video](https://youtu.be/t9IPCuhXlRA)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t9IPCuhXlRA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
